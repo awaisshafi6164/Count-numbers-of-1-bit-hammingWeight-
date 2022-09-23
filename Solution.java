@@ -1,3 +1,4 @@
+//This solution is running correctly but it takes more time as compared to soltuin2.java file.
 
 public class Solution {
 	public int hammingWeight(int n) {
